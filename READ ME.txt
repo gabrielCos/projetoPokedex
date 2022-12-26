@@ -1,0 +1,2 @@
+Projeto com finalidade de construir uma pokedex. Com objetivos de treinar tecnologias frequentemente usadas no mercado. 
+
